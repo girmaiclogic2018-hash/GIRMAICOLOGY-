@@ -1,0 +1,6 @@
+{
+  "name": "Girmaicology",
+  "description": "Girmaicology is a real-time conversational AI language learning partner covering Ethiopian local languages, essential African languages, and major global languages powered by Gemini Live.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
